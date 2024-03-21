@@ -16,7 +16,7 @@ O **LadingPage iMovi** é um site de com temática de  Esfiharia desenvolvido co
 
 ## Tabela de Conteúdos 
 
-- [Site CodeChella](#LandingPage-iMovi)
+- [Landing Page iMovi](#LandingPage-iMovi)
 - [Descrição](#descrição)
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Demonstração do Projeto](#Demonstração-Do-Projeto)
