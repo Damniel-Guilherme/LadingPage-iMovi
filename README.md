@@ -1,22 +1,22 @@
 <div align="center">
-    <h1>LandingPage Esfiharia</h1>
+    <h1>LadingPage iMovi</h1>
     <div> 
-        <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/LandingPage-Esfiharia" style="pointer-events: none;" />
-        <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/LandingPage-Esfiharia" style="pointer-events: none;" />
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/LandingPage-Esfiharia" style="pointer-events: none;" />
-        <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/LandingPage-Esfiharia" style="pointer-events: none;" />
-        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/LandingPage-Esfiharia" style="pointer-events: none;" />
-        <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/LandingPage-Esfiharia" style="pointer-events: none;" />
+        <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
+        <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
+        <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
+        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
+        <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/LadingPage-iMovi" style="pointer-events: none;" />
     </div>
 </div>
 
 ## Descrição 📝
 
-O **LandingPage Esfiharia** é um site de com temática de  Esfiharia desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS E BootStrap] PROJETO 4.
+O **LadingPage iMovi** é um site de com temática de  Esfiharia desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS, BootStrap E SASS] PROJETO 5.
 
 ## Tabela de Conteúdos 
 
-- [Site CodeChella](#LandingPage-Esfiharia)
+- [Site CodeChella](#LandingPage-iMovi)
 - [Descrição](#descrição)
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Demonstração do Projeto](#Demonstração-Do-Projeto)
@@ -40,7 +40,7 @@ O **LandingPage Esfiharia** é um site de com temática de  Esfiharia desenvolvi
 
 **Objetivo Profissional do Projeto:**
 
-O objetivo central deste projeto é promover a aquisição e aprimoramento dos conhecimentos em linguagens de marcação HTML, CSS e Sass, seguindo rigorosamente o roadmap disponibilizado em nossa página no GitHub.
+O objetivo central deste projeto é promover a aquisição e aprimoramento dos conhecimentos em linguagens de marcação HTML, CSS, bootstrap e sass, seguindo rigorosamente o roadmap disponibilizado em nossa página no GitHub.
 
 **Datas do Projeto:** 📅
 
@@ -50,27 +50,27 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 ## Preview do Projeto
 
 <div style="display: flex; flex-direction: row;">
-        <img src="https://i.imgur.com/lgEpFbn.png" alt="Imagem Mobile" width="100">
-        <img src="https://i.imgur.com/lyObJfa.png" alt="Imagem Desktop" width="250">
+        <img src="https://i.imgur.com/TvvKLfm.png" alt="Imagem Mobile" width="100">
+        <img src="https://i.imgur.com/naw5jmK.png" alt="Imagem Desktop" width="250">
 </div>
 
 ## Instalação ⚙️
 
-Para instalar e utilizar o **LandingPage League of Legends**, siga estas etapas:
+Para instalar e utilizar o **LandingPage iMovi**, siga estas etapas:
 
 1. **Clone o repositório:** 📜
 ```bash
-git clone https://github.com/Damniel-Guilherme/LandingPage-Esfiharia.git
+git clone https://github.com/Damniel-Guilherme/LadingPage-iMovi.git
 ```
 
 2. **Acesse o diretório do projeto:** 📁
 ```bash
-cd LandingPage Esfiharia
+cd LandingPage iMovi
 ```
 
 ## Uso 💬
 
-Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://landing-page-esfiharia.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
+Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://lading-page-i-movi.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
 
 ## Sistema Operacional 🖥️
 
@@ -141,9 +141,12 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Mobile**
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/XgdV9sD.png" width="100px">
-    <img src="https://i.imgur.com/bafwwMl.png" width="100px">
-    <img src="https://i.imgur.com/ItS0Tds.png" width="100px">
+    <img src="https://i.imgur.com/T2H4tV9.png" width="100px">
+    <img src="https://i.imgur.com/0E5vpyo.png" width="100px">
+    <img src="https://i.imgur.com/s7hHFKa.png" width="100px">
+    <img src="https://i.imgur.com/jniMKiG.png" width="100px">
+    <img src="https://i.imgur.com/KsNUbY7.png" width="100px">
+    <img src="https://i.imgur.com/2tN3J3b.png" width="100px">
 </div>
 
 <br>
@@ -151,16 +154,18 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Desktop**
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/LYpKw8a.png" width="250px">
-    <img src="https://i.imgur.com/Ogbn2oJ.png" width="250px">
-    <img src="https://i.imgur.com/9e0Cmia.png" width="250px">
+    <img src="https://i.imgur.com/2cERQ24.png" width="250px">
+    <img src="https://i.imgur.com/pp0Qaci.png" width="250px">
+    <img src="https://i.imgur.com/YAnchKl.png" width="250px">
+    <img src="https://i.imgur.com/WcJwwOz.png" width="250px">
+    <img src="https://i.imgur.com/wrYY0vM.png" width="250px">
 </div>
 
 ## Testes 🔧
 
 Lighthouse Chrome Test
 
-<img src="https://i.imgur.com/6B6DEJX.jpeg" width="300px">
+<img src="https://i.imgur.com/83tfBgH.jpeg" width="300px">
 
 ## Aprendizados 💡
 
@@ -176,9 +181,10 @@ Durante o desenvolvimento deste projeto, aprendemos e praticamos diversas habili
 
 - **Design Responsivo e Mobile-First:** Aprendemos e aplicamos os princípios do design responsivo e adotamos a abordagem mobile-first durante o desenvolvimento do projeto. Isso nos permitiu criar um site que se adapta de forma fluida a diferentes tamanhos de tela e dispositivos, garantindo uma experiência consistente e otimizada, especialmente para dispositivos móveis, onde começamos o processo de design e expandimos para telas maiores. Essa abordagem assegura que nosso site seja acessível e visualmente atraente em uma variedade de dispositivos, desde smartphones até desktops, priorizando a experiência do usuário em dispositivos móveis e adaptando-a para outras plataformas.
 
+- **BootStrap:** Bootstrap é um framework front-end que agiliza o desenvolvimento de websites responsivos, fornecendo componentes e estilos pré-construídos para criar interfaces visualmente atraentes e consistentes em diferentes dispositivos.
+
 - **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, permitindo uma codificação mais eficiente e organizada. Ele oferece recursos como variáveis, aninhamento de seletores, mixins e funções, facilitando a criação e manutenção de estilos para páginas da web.
 
-- **BootStrap:** Bootstrap é um framework front-end que agiliza o desenvolvimento de websites responsivos, fornecendo componentes e estilos pré-construídos para criar interfaces visualmente atraentes e consistentes em diferentes dispositivos.
 
 Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projeto, fornecendo uma base sólida para futuros desenvolvimentos e contribuições.
 
@@ -194,9 +200,10 @@ Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluin
 
 - **Design Responsivo e Mobile First":** No projeto, priorizamos o design responsivo e adotamos a abordagem mobile-first, garantindo total funcionalidade e estética em dispositivos móveis. Expandimos o design para dispositivos maiores, mantendo consistência e usabilidade em todas as plataformas, assegurando uma experiência otimizada para todos os usuários.
 
+- **BootStrap:** Bootstrap oferece um sistema de grade flexível e componentes prontos para uso, permitindo criar layouts responsivos e estilizados facilmente. Suas classes de utilitário agilizam o estilo e a formatação, enquanto os plugins JavaScript adicionam funcionalidades interativas aos sites. Personalizável via Sass, o Bootstrap é uma ferramenta essencial para o desenvolvimento front-end eficiente.
+
 - **Sass:** Sass é uma linguagem de folhas de estilo que estende o CSS, oferecendo recursos avançados para uma codificação mais eficiente e organizada, como variáveis, aninhamento de seletores e mixins.
 
-- **BootStrap:** Bootstrap oferece um sistema de grade flexível e componentes prontos para uso, permitindo criar layouts responsivos e estilizados facilmente. Suas classes de utilitário agilizam o estilo e a formatação, enquanto os plugins JavaScript adicionam funcionalidades interativas aos sites. Personalizável via Sass, o Bootstrap é uma ferramenta essencial para o desenvolvimento front-end eficiente
 
 ## Dificuldades 🚨
 
