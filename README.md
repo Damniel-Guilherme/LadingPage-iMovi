@@ -12,7 +12,7 @@
 
 ## Descrição 📝
 
-O **Lading Page iMovi** é um site de com temática de  Esfiharia desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS, BootStrap E SASS] PROJETO 5.
+O **Lading Page iMovi** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS, BootStrap E SASS] PROJETO 5.
 
 ## Tabela de Conteúdos 
 
