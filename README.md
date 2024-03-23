@@ -12,7 +12,7 @@
 
 ## Descrição 📝
 
-O **Lading Page iMovi** é um site de com temática de  Esfiharia desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS, BootStrap E SASS] PROJETO 5.
+O **Lading Page iMovi** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML, CSS, BootStrap E SASS] PROJETO 5.
 
 ## Tabela de Conteúdos 
 
@@ -79,22 +79,18 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 ## Linguagens Utilizadas 📚
 
 <div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">HTML:</strong> Utilizado para estruturar e definir o conteúdo do nosso projeto web de forma semântica e acessível.
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">CSS:</strong> Utilizado para estilizar e formatar o conteúdo HTML, proporcionando uma apresentação visual atraente e consistente.
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://img.icons8.com/?size=96&id=84710&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">BootStrap:</strong> Bootstrap é um framework front-end utilizado para desenvolver interfaces de usuário responsivas e estilizadas.
-  </div>
-</div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://img.icons8.com/?size=96&id=QBqFNfPPB2Kx&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Sass:</strong> Sass serve para facilitar a escrita e manutenção de estilos em páginas da web, estendendo as funcionalidades do CSS.
-  </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">HTML:</strong> Utilizado para estruturar e definir o conteúdo do nosso projeto web de forma semântica e acessível.
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">CSS:</strong> Utilizado para estilizar e formatar o conteúdo HTML, proporcionando uma apresentação visual atraente e consistente.
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+         <img src="https://img.icons8.com/?size=96&id=84710&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">BootStrap:</strong> Bootstrap é um framework front-end utilizado para desenvolver interfaces de usuário responsivas e estilizadas.
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://img.icons8.com/?size=96&id=QBqFNfPPB2Kx&format=png" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Sass:</strong> Sass serve para facilitar a escrita e manutenção de estilos em páginas da web, estendendo as funcionalidades do CSS.
+    </div>
 </div>
 
 ## Ferramentas 🧰🛠️
@@ -237,6 +233,6 @@ Não hesite em nos contatar. Estamos sempre aqui para ajudar!
 
 ## Updates 🔄
 
-Mantenha-se atualizado com as últimas novidades e atualizações do projeto: **Landing Page Esfiharia**:
+Mantenha-se atualizado com as últimas novidades e atualizações do projeto:
 
 - [Histórico de Atualizações](#) [**Sem Atualizações no Momento!!**]
